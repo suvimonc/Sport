@@ -9,6 +9,71 @@
 <channel>
 
 <item>
+<title>Bein Sport1</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live1.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=1</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport2</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live2.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=2</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport3</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live3.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=3</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport4</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live4.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=4</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport5</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live8.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=8</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
 <title>True Sport HD1</title>
 <link>$doregex[CH]</link>
 <regex>
@@ -36,19 +101,6 @@
 </item>
 
 <item>
-<title>True Sport HD2</title>
-<link>$doregex[CH]</link>
-<regex>
-<name>CH</name>
-<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
-<page>http://www.zaatv.com/truesporthd-2.php</page>
-<referer>http://103.7.57.19:1935/goalclub/sporthd2.stream/chunklist_w169412584.m3u8</referer>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>
-</regex>
-</item>
-
-<item>
 <title>True Sport HD3</title>
 <link>$doregex[CH]</link>
 <regex>
@@ -56,19 +108,6 @@
 <expres><![CDATA[file: "(http://[^"]+)"]]></expres>
 <page>http://ball.qoo-p.com/dooballsod/live9.php</page>
 <referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=13</referer>
-<cookieJar></cookieJar>
-<thumbnail></thumbnail>
-</regex>
-</item>
-
-<item>
-<title>True Sport HD3</title>
-<link>$doregex[CH]</link>
-<regex>
-<name>CH</name>
-<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
-<page>http://www.zaatv.com/truesporthd-3.php</page>
-<referer>http://103.7.57.19:1935/goalclub/sporthd3.stream/chunklist_w71806986.m3u8</referer>
 <cookieJar></cookieJar>
 <thumbnail></thumbnail>
 </regex>
@@ -125,6 +164,7 @@
 <thumbnail></thumbnail>
 </regex>
 </item>
+
 
 </channel>
 
