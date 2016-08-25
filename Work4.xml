@@ -1,597 +1,169 @@
 <items_info> <!-- this is opitonal -->
-
+      <title>[COLOR=FF00CCFF]Do Ball Sod[/COLOR]</title> 
+      <genre>1 april 2016</genre>
+      <description>Power by Basza of Thailand ©2016</description>
+      <thumbnail>https://s20.postimg.org/oonit0et9/1359119690_30082457_o.png</thumbnail>
+      <fanart>https://s20.postimg.org/4srjdgxrx/8280_11.jpg</fanart>
+    </items_info>
+    
 <channel>
 
 <item>
-#EXTM3U
-#EXTINF:-1,Ch 3 HD
-http://111.223.37.196:1935/thaitv3_HD/thaitv3_HD_1/playlist.m3u8
-#EXTINF:-1,Ch 5 HD
-http://61.91.12.34:1935/live/smil:tv5adaptive.smil/chunklist_w121663169_b1024000.m3u8
-#EXTINF:-1,Ch 7 HD
-http://je7.bugaboo.tv/liveedgech7_partner/720p/playlist.m3u8
-#EXTINF:-1,Mcot HD
-http://lb-media.mcot.net:1935/9mcot_edge/9mcot.stream/playlist.m3u8
-#EXTINF:-1,TPBS  HD
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1,PPTV
-http://111.223.36.5/teleplus_pptvhd.m3u8?bandwidth=956
-#EXTINF:-1,MONO29
-http://solution01.stream.3bb.co.th:1935/MonoTV720/720p_th/chunklist_w1096387566.m3u8
-#EXTINF:-1,TNN 24
-http://edge2.psitv.tv:1935/liveedge/308360140120_600/chunklist_w1322924984.m3u8
-#EXTINF:-1,Ch 8
-http://111.223.51.3/desktop/ch8_720p/medialist.m3u8
-#EXTINF:-1,NEW TV
-http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1,WORKPOINT
-http://workpoint.radical-enlighten.com:1935/workpoint/_definst_/workpoint_720p/chunklist.m3u8
-#EXTINF:-1,CAT channel
-http://61.19.18.237/live/m1.sdp/playlist.m3u8
-#EXTINF:-1,Thairath HD 
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1,Bein Sport 1
-http://streamer.u-play.tv:8081/uplay-3/epl-bein1_720/chunks.m3u8
-#EXTINF:-1,Bein Sport 2
-http://streamer.u-play.tv:8081/uplay-3/epl-bein2_720/chunks.m3u8
-#EXTINF:-1,Bein Sport 3
-http://streamer.u-play.tv:8081/uplay-3/epl-bein3_720/chunks.m3u8
-#EXTINF:-1,Bein Sport 4
-http://streamer.u-play.tv:8081/uplay-3/epl-bein4_720/chunks.m3u8
-#EXTINF:-1,Bein Sport 1
-http://150.107.29.243/bein1.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 2
-http://150.107.29.243/bein2.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 3
-http://150.107.29.243/bein3.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 4
-http://150.107.29.243/bein4.stream/playlist.m3u8
-#EXTINF:-1,True Sport HD2
-rtmp://216.185.103.158/live2/chthaipremier11
-#EXTINF:-1,True Sport HD3
-rtmp://216.185.103.158/live2/chthaipremier31
-#EXTINF:-1,My Sci
-http://27.254.149.37:8082/Mysci/index.m3u8
-#EXTINF:-1,HBO Hit
-http://27.131.166.195:8018/HBO_Hits(suud)/index.m3u8
-#EXTINF:-1,NHK
-http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-#EXTINF:-1,CH3 HD
-http://111.223.52.109:81/tot/a4485b656d764f308c63b14a8bf62326.m3u8?token=fuck
-#EXTINF:-1,CH5 HD
-http://111.223.52.109:81/tot/1d92193b11fe490b8c67d0a88bee3fd6.m3u8?token=fuck
-#EXTINF:-1,CH7 HD
-http://111.223.52.109:81/tot/ddfa47e726444446864b14e0e819fdde.m3u8?token=fuck
-#EXTINF:-1,Thai PBS HD
-http://111.223.52.109:81/tot/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?token=fuck
-#EXTINF:-1,NBT
-http://111.223.52.109:81/tot/ce9a1585f45d4379970b95308df3f879.m3u8?token=fuck
-#EXTINF:-1,MCOT HD
-http://111.223.52.109:81/tot/3ae2fd6ccaf6499e898de377ed74ea12.m3u8?token=fuck
-#EXTINF:-1,TPBS HD
-http://111.223.52.109:81/tot/d7182fae6e9f4d929bdb5ae06059bda8.m3u8?token=fuck
-#EXTINF:-1,PPTV HD
-http://111.223.52.109:81/tot/623d009180394c528880c14e2254452a.m3u8?token=fuck
-#EXTINF:-1,THAIRATH  HD
-http://111.223.52.109:81/tot/b1bc90419ccb4885bb0b544bb2b8ee83.m3u8?token=fuck
-#EXTINF:-1,AMARIN  HD
-http://111.223.52.109:81/tot/78f57ebcf6064b308d75208a20756983.m3u8?token=fuck
-#EXTINF:-1,ONE HD
-http://111.223.52.109:81/tot/7e069540a35942e89245865a84add64a.m3u8?token=fuck
-#EXTINF:-1,Workpoint.
-http://111.223.52.109:81/tot/a9a68ab5471d4d39ba25695a66957067.m3u8?token=fuck
-#EXTINF:-1,MONO plus
-http://111.223.52.109:81/tot/9623847065ba466e90632cf686fade0b.m3u8?token=fuck
-#EXTINF:-1,CH8
-http://111.223.52.109:81/tot/15c52eeb21b748319771eb794a6cf242.m3u8?token=fuck
-#EXTINF:-1,CH2
-http://111.223.52.109:81/tot/4e38ed2fa4dd43999828eab81196deff.m3u8?token=fuck
-#EXTINF:-1,News1
-http://111.223.52.109:81/tot/31dbe17e0c1b4c8684200f83b85b007b.m3u8?token=fuck
-#EXTINF:-1,TV24
-http://111.223.52.109:81/tot/6d5587cf7ce94cd8a7477775b7ddc253.m3u8?token=fuck
-#EXTINF:-1,T News
-http://111.223.52.109:81/tot/bcc7d0600c9943f2a1114f5749d180e8.m3u8?token=fuck
-#EXTINF:-1,Nation TV
-http://111.223.52.109:81/tot/a5b25476119b46f5b5a34d56f7d1156c.m3u8?token=fuck
-#EXTINF:-1,Now26
-http://111.223.52.109:81/tot/732ace1b4983472097eedb0d415dc231.m3u8?token=fuck
-#EXTINF:-1,TNN24
-http://111.223.52.109:81/tot/77774220bb8e40aa94e549e29ff3ed8a.m3u8?token=fuck
-#EXTINF:-1,MITI4
-http://111.223.52.109:81/tot/d2dc7d7f3d234b5a9ef526e2fc16fb7b.m3u8?token=fuck
-#EXTINF:-1,Miracle
-http://111.223.52.109:81/tot/25713d0629f148adbfedbdf4284afb09.m3u8?token=fuck
-#EXTINF:-1,Dara Daily
-http://111.223.52.109:81/tot/1e2b9312fc384567ac6a12e650d8796a.m3u8?token=fuck
-#EXTINF:-1,M Channel
-http://111.223.52.109:81/tot/97f3052bec96482584c5de84dda0d745.m3u8?token=fuck
-#EXTINF:-1,JKN
-http://111.223.52.109:81/tot/fc8195dc989240348772d00dd9eba3d0.m3u8?token=fuck
-#EXTINF:-1,Mongkol Channel
-http://111.223.52.109:81/tot/fcc2f9d7000747d5a55680d8eba2b3ef.m3u8?token=fuck
-#EXTINF:-1,Major Channel
-http://111.223.52.109:81/tot/ab6acb38607a4aff9dc773a6772c91fc.m3u8?token=fuck
-#EXTINF:-1,You Channel
-http://111.223.52.109:81/tot/8e959f5d739d497c95faa31b3a810dd6.m3u8?token=fuck
-#EXTINF:-1,Thai Chaiyo
-http://111.223.52.109:81/tot/a2ca06da9478412e9501d968e31bbf75.m3u8?token=fuck
-#EXTINF:-1,Thai Station
-http://111.223.52.109:81/tot/768ab5caf16e44689c3a75e6a3f57b5c.m3u8?token=fuck
-#EXTINF:-1,GP Channel
-http://111.223.52.109:81/tot/e05107e8304b4d118c92b5dffa636715.m3u8?token=fuck
-#EXTINF:-1,Cartoon Club
-http://111.223.52.109:81/tot/860605f7e16d4c6cacef72ef02ffa2c1.m3u8?token=fuck
-#EXTINF:-1,Gang Cartoon
-http://111.223.52.109:81/tot/7299670a140849a9aaf946b0302ad886.m3u8?token=fuck
-#EXTINF:-1,Baby TV
-http://111.223.52.109:81/tot/7773f3cef0334a28ad248552ea63d9e7.m3u8?token=fuck
-#EXTINF:-1,Nick JR
-http://111.223.52.109:81/tot/2b72986be9314c139db95f6098d1c413.m3u8?token=fuck
-#EXTINF:-1,Universal Channel
-http://111.223.52.109:81/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8?token=fuck
-#EXTINF:-1,Thrill
-http://111.223.52.109:81/tot/c316ed9333e54442b25077f0bb3cc269.m3u8?token=fuck
-#EXTINF:-1,CI
-http://111.223.52.109:81/tot/9961a963920f45f4bc0d81c3e478b334.m3u8?token=fuck
-#EXTINF:-1,Fox Thai
-http://111.223.52.109:81/tot/63cbfb466fe644dda11a8e109611a5cd.m3u8?token=fuck
-#EXTINF:-1,FoxCrime HD
-http://111.223.52.109:81/tot/5028f7ff1d1b4d5f8189690233364737.m3u8?token=fuck
-#EXTINF:-1,Fox Action
-http://111.223.52.109:81/tot/206105b34a1c44b886c6cd3c59105803.m3u8?token=fuck
-#EXTINF:-1,StarWorld HD
-http://111.223.52.109:81/tot/65f7358b813048a0898f5677e1793cf9.m3u8?token=fuck
-#EXTINF:-1,KIX
-http://111.223.52.109:81/tot/e584e0adae6440eab366f5fe3a824f91.m3u8?token=fuck
-#EXTINF:-1,SYFY
-http://111.223.52.109:81/tot/71f197de056e499a85265c03b44bdab1.m3u8?token=fuck
-#EXTINF:-1,FX Cinema
-http://111.223.52.109:81/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8?token=fuck
-#EXTINF:-1,CCTV4
-http://111.223.52.109:81/tot/5289381709e64f8db14a4ed75ab2b59f.m3u8?token=fuck
-#EXTINF:-1,Celestial Classic Movies
-http://111.223.52.109:81/tot/1c2276a2f1884b269ce281c3334e8f85.m3u8?token=fuck
-#EXTINF:-1,NAT Geo Peple
-http://111.223.52.109:81/tot/7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?token=fuck
-#EXTINF:-1,NAT Geo Wild HD
-http://111.223.52.109:81/tot/607fa33938bc4a3ea6c43ce47ddb8ed8.m3u8?token=fuck
-#EXTINF:-1,FYI
-http://111.223.52.109:81/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8?token=fuck
-#EXTINF:-1,CCTV9 Documentary
-http://111.223.52.109:81/tot/b08a8052e6724bedba5399f662715ad1.m3u8?token=fuck
-#EXTINF:-1,Sky News Hd
-http://111.223.52.109:81/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8?token=fuck
-#EXTINF:-1,Fox News
-http://111.223.52.109:81/tot/1e2041858ca543fa90ec95d28197e907.m3u8?token=fuck
-#EXTINF:-1,Media Corp
-http://111.223.52.109:81/tot/018d9f65365a4744b2c8222ca1d54be9.m3u8?token=fuck
-#EXTINF:-1,Euro News
-http://111.223.52.109:81/tot/3f35c4428a0d4004a38ff0adba7664f4.m3u8?token=fuck
-#EXTINF:-1,Aljazeera
-http://111.223.52.109:81/tot/ea4c9d2666bc411d8e6777e8a1d2b747.m3u8?token=fuck
-#EXTINF:-1,DW
-http://111.223.52.109:81/tot/6de1e752a9974a5980166483c8ed6bb8.m3u8?token=fuck
-#EXTINF:-1,CCTV News
-http://111.223.52.109:81/tot/0ed1c715dc864ab3912d4015903a3d85.m3u8?token=fuck
-#EXTINF:-1,France24
-http://111.223.52.109:81/tot/82c764aa2d7f42579348b8717cb5b9a4.m3u8?token=fuck
-#EXTINF:-1,Fashion TV
-http://111.223.52.109:81/tot/df468a12ae6547de9637486bdc2025aa.m3u8?token=fuck
-#EXTINF:-1,Fox Extra
-http://111.223.52.109:81/tot/1e2041858ca543fa90ec95d28197e907.m3u8?token=fuck
-#EXTINF:-1,Zetc
-http://111.223.52.109:81/tot/dcf0d550815947f3bacaf3521e118124.m3u8?token=fuck
-#EXTINF:-1,B4U Music
-http://111.223.52.109:81/tot/81ff107849124ff389814b0b8816b1ba.m3u8?token=fuck
-#EXTINF:-1,Comedy
-http://111.223.52.109:81/tot/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?token=fuck
-#EXTINF:-1,MTV Live HD
-http://111.223.52.109:81/tot/8d45473ff4ca44d79e1abc4516c2fee0.m3u8?token=fuck
-#EXTINF:-1,V Channel
-http://111.223.52.109:81/tot/9e38a0084e6d45d080139a166c60a102.m3u8?token=fuck
-#EXTINF:-1,MTV China
-http://111.223.52.109:81/tot/deb56e700dbc4d9ea5af08e9d300a675.m3u8?token=fuck
-#EXTINF:-1,Trace Urban TV HD
-http://111.223.52.109:81/tot/69ebf00065494dc39a3911c7d1eb9d71.m3u8?token=fuck
-#EXTINF:-1,China1
-http://111.223.52.109:81/tot/29a09591a6604ff3b798cd7ef809e4bd.m3u8?token=fuck
-#EXTINF:-1,China2
-http://111.223.52.109:81/tot/c8233976dbba4a06a101780907447375.m3u8?token=fuck
-#EXTINF:-1,Fox Sport 2
-http://111.223.52.109:81/tot/1fd48f2cd616439ca4162478e572d681.m3u8?token=fuck
-#EXTINF:-1,Fox Sport 3
-http://111.223.52.109:81/tot/b254601a75724ad79e2633f3d307e331.m3u8?token=fuck
-#EXTINF:-1,CH3 HD
-http://103.22.183.175/stream/totnew.php?channel_id=a4485b656d764f308c63b14a8bf62326
-#EXTINF:-1,CH5 HD
-http://103.22.183.175/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6
-#EXTINF:-1,CH7 HD
-http://103.22.183.175/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde
-#EXTINF:-1,Thai PBS HD
-http://103.22.183.175/stream/totnew.php?channel_id=d7182fae6e9f4d929bdb5ae06059bda8
-#EXTINF:-1,NBT
-http://103.22.183.175/stream/totnew.php?channel_id=ce9a1585f45d4379970b95308df3f879
-#EXTINF:-1,MCOT HD
-http://103.22.183.175/stream/totnew.php?channel_id=3ae2fd6ccaf6499e898de377ed74ea12
-#EXTINF:-1,TPBS HD
-http://103.22.183.175/stream/totnew.php?channel_id=d7182fae6e9f4d929bdb5ae06059bda8
-#EXTINF:-1,PPTV HD
-http://103.22.183.175/stream/totnew.php?channel_id=623d009180394c528880c14e2254452a
-#EXTINF:-1,THAIRATH  HD
-http://103.22.183.175/stream/totnew.php?channel_id=b1bc90419ccb4885bb0b544bb2b8ee83
-#EXTINF:-1,AMARIN  HD
-http://103.22.183.175/stream/totnew.php?channel_id=78f57ebcf6064b308d75208a20756983
-#EXTINF:-1,ONE HD
-http://103.22.183.175/stream/totnew.php?channel_id=7e069540a35942e89245865a84add64a
-#EXTINF:-1,Workpoint.
-http://103.22.183.175/stream/totnew.php?channel_id=a9a68ab5471d4d39ba25695a66957067
-#EXTINF:-1,MONO plus
-http://103.22.183.175/stream/totnew.php?channel_id=9623847065ba466e90632cf686fade0b
-#EXTINF:-1,CH8
-http://103.22.183.175/stream/totnew.php?channel_id=15c52eeb21b748319771eb794a6cf242
-#EXTINF:-1,CH2
-http://103.22.183.175/stream/totnew.php?channel_id=4e38ed2fa4dd43999828eab81196deff
-#EXTINF:-1,News1
-http://103.22.183.175/stream/totnew.php?channel_id=31dbe17e0c1b4c8684200f83b85b007b
-#EXTINF:-1,TV24
-http://103.22.183.175/stream/totnew.php?channel_id=6d5587cf7ce94cd8a7477775b7ddc253
-#EXTINF:-1,T News
-http://103.22.183.175/stream/totnew.php?channel_id=bcc7d0600c9943f2a1114f5749d180e8
-#EXTINF:-1,Nation TV
-http://103.22.183.175/stream/totnew.php?channel_id=a5b25476119b46f5b5a34d56f7d1156c
-#EXTINF:-1,Now26
-http://103.22.183.175/stream/totnew.php?channel_id=732ace1b4983472097eedb0d415dc231
-#EXTINF:-1,TNN24
-http://103.22.183.175/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a
-#EXTINF:-1,MITI4
-http://103.22.183.175/stream/totnew.php?channel_id=d2dc7d7f3d234b5a9ef526e2fc16fb7b
-#EXTINF:-1,Miracle
-http://103.22.183.175/stream/totnew.php?channel_id=25713d0629f148adbfedbdf4284afb09
-#EXTINF:-1,Dara Daily
-http://103.22.183.175/stream/totnew.php?channel_id=1e2b9312fc384567ac6a12e650d8796a
-#EXTINF:-1,M Channel
-http://103.22.183.175/stream/totnew.php?channel_id=97f3052bec96482584c5de84dda0d745
-#EXTINF:-1,JKN
-http://103.22.183.175/stream/totnew.php?channel_id=fc8195dc989240348772d00dd9eba3d0
-#EXTINF:-1,Mongkol Channel
-http://103.22.183.175/stream/totnew.php?channel_id=fcc2f9d7000747d5a55680d8eba2b3ef
-#EXTINF:-1,Major Channel
-http://103.22.183.175/stream/totnew.php?channel_id=ab6acb38607a4aff9dc773a6772c91fc
-#EXTINF:-1,You Channel
-http://103.22.183.175/stream/totnew.php?channel_id=8e959f5d739d497c95faa31b3a810dd6
-#EXTINF:-1,Thai Chaiyo
-http://103.22.183.175/stream/totnew.php?channel_id=a2ca06da9478412e9501d968e31bbf75
-#EXTINF:-1,Thai Station
-http://103.22.183.175/stream/totnew.php?channel_id=768ab5caf16e44689c3a75e6a3f57b5c
-#EXTINF:-1,GP Channel
-http://103.22.183.175/stream/totnew.php?channel_id=e05107e8304b4d118c92b5dffa636715
-#EXTINF:-1,Cartoon Club
-http://103.22.183.175/stream/totnew.php?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
-#EXTINF:-1,Gang Cartoon
-http://103.22.183.175/stream/totnew.php?channel_id=7299670a140849a9aaf946b0302ad886
-#EXTINF:-1,Baby TV
-http://103.22.183.175/stream/totnew.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
-#EXTINF:-1,Nick JR
-http://103.22.183.175/stream/totnew.php?channel_id=2b72986be9314c139db95f6098d1c413
-#EXTINF:-1,Universal Channel
-http://103.22.183.175/stream/totnew.php?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
-#EXTINF:-1,Thrill
-http://103.22.183.175/stream/totnew.php?channel_id=c316ed9333e54442b25077f0bb3cc269
-#EXTINF:-1,CI
-http://103.22.183.175/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
-#EXTINF:-1,Fox Thai
-http://103.22.183.175/stream/totnew.php?channel_id=63cbfb466fe644dda11a8e109611a5cd
-#EXTINF:-1,FoxCrim HD
-http://103.22.183.175/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
-#EXTINF:-1,Fox Action
-http://103.22.183.175/stream/totnew.php?channel_id=206105b34a1c44b886c6cd3c59105803
-#EXTINF:-1,StarWorld HD
-http://103.22.183.175/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9
-#EXTINF:-1,KIX
-http://103.22.183.175/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
-#EXTINF:-1,SYFY
-http://103.22.183.175/stream/totnew.php?channel_id=71f197de056e499a85265c03b44bdab1
-#EXTINF:-1,FX Cinema
-http://103.22.183.175/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7
-#EXTINF:-1,CCTV4
-http://103.22.183.175/stream/totnew.php?channel_id=5289381709e64f8db14a4ed75ab2b59f
-#EXTINF:-1,Celestial Classic Movies
-http://103.22.183.175/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
-#EXTINF:-1,NAT Geo Peple
-http://103.22.183.175/stream/totnew.php?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
-#EXTINF:-1,NAT Geo Wild HD
-http://103.22.183.175/stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
-#EXTINF:-1,FYI
-http://103.22.183.175/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
-#EXTINF:-1,CCTV9 Documentary
-http://103.22.183.175/stream/totnew.php?channel_id=b08a8052e6724bedba5399f662715ad1
-#EXTINF:-1,Sky News Hd
-http://103.22.183.175/stream/totnew.php?channel_id=31b003ab7e7749a798fe00424e3dd9ff
-#EXTINF:-1,Fox News
-http://103.22.183.175/stream/totnew.php?channel_id=1e2041858ca543fa90ec95d28197e907
-#EXTINF:-1,Media Corp
-http://103.22.183.175/stream/totnew.php?channel_id=018d9f65365a4744b2c8222ca1d54be9
-#EXTINF:-1,Euro News
-http://103.22.183.175/stream/totnew.php?channel_id=3f35c4428a0d4004a38ff0adba7664f4
-#EXTINF:-1,Aljazeera
-http://103.22.183.175/stream/totnew.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
-#EXTINF:-1,DW
-http://103.22.183.175/stream/totnew.php?channel_id=6de1e752a9974a5980166483c8ed6bb8
-#EXTINF:-1,CCTV News
-http://103.22.183.175/stream/totnew.php?channel_id=0ed1c715dc864ab3912d4015903a3d85
-#EXTINF:-1,France24
-http://103.22.183.175/stream/totnew.php?channel_id=82c764aa2d7f42579348b8717cb5b9a4
-#EXTINF:-1,Fashion TV
-http://103.22.183.175/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
-#EXTINF:-1,Fox Extra
-http://103.22.183.175/stream/totnew.php?channel_id=1e2041858ca543fa90ec95d28197e907
-#EXTINF:-1,Zetc
-http://103.22.183.175/stream/totnew.php?channel_id=dcf0d550815947f3bacaf3521e118124
-#EXTINF:-1,B4U Music
-http://103.22.183.175/stream/totnew.php?channel_id=81ff107849124ff389814b0b8816b1ba
-#EXTINF:-1,Comedy
-http://103.22.183.175/stream/totnew.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
-#EXTINF:-1,MTV Live HD
-http://103.22.183.175/stream/totnew.php?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
-#EXTINF:-1,V Channel
-http://103.22.183.175/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
-#EXTINF:-1,MTV China
-http://103.22.183.175/stream/totnew.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
-#EXTINF:-1,Trace Urban TV HD
-http://103.22.183.175/stream/totnew.php?channel_id=69ebf00065494dc39a3911c7d1eb9d71
-#EXTINF:-1,China1
-http://103.22.183.175/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
-#EXTINF:-1,China2
-http://103.22.183.175/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
-#EXTINF:-1,Fox Sport 2
-http://103.22.183.175/stream/totnew.php?channel_id=1fd48f2cd616439ca4162478e572d681
-#EXTINF:-1,Fox Sport 3
-http://103.22.183.175/stream/totnew.php?channel_id=b254601a75724ad79e2633f3d307e331
-#EXTINF:-1,Ch3 HD
-http://freetv-01.dyndns.tv/live/3-HD.m3u8
-#EXTINF:-1,Ch5 HD
-http://freetv-01.dyndns.tv/live/TV5-HD1.m3u8
-#EXTINF:-1,Ch7 HD
-http://freetv-01.dyndns.tv/live/CH7-HD.m3u8
-#EXTINF:-1,Amarin HD
-http://freetv-01.dyndns.tv/live/Amarin-TV-HD.m3u8
-#EXTINF:-1,Mcot HD
-http://freetv-01.dyndns.tv/live/MCOT-HD.m3u8
-#EXTINF:-1,Nbt HD
-http://freetv-01.dyndns.tv/live/NBT-HD.m3u8
-#EXTINF:-1,IPBS HD
-http://freetv-01.dyndns.tv/live/TPBS.m3u8
-#EXTINF:-1,Ch8 HD
-http://freetv-01.dyndns.tv/live/CH8-HD.m3u8
-#EXTINF:-1,One HD
-http://freetv-01.dyndns.tv/live/ONE-HD.m3u8
-#EXTINF:-1,PPTV HD
-http://freetv-01.dyndns.tv/live/PPTV-HD.m3u8
-#EXTINF:-1,Thairath HD
-http://freetv-01.dyndns.tv/live/Thairath-TV.m3u8
-#EXTINF:-1,Workpoint HD
-http://freetv-01.dyndns.tv/live/workpoint-HD.m3u8
-#EXTINF:-1,Tnn 24
-http://freetv-01.dyndns.tv/live/TNN24.m3u8
-#EXTINF:-1,Gmm 25
-http://freetv-01.dyndns.tv/live/GMM-25.m3u8
-#EXTINF:-1,Mono 29
-http://freetv-01.dyndns.tv/live/MONO-29.m3u8
-#EXTINF:-1,New
-http://freetv-01.dyndns.tv/live/new-tv.m3u8
-#EXTINF:-1,Spark jump
-http://freetv-01.dyndns.tv/live/SPK-JUMP.m3u8
-#EXTINF:-1,Spark play
-http://freetv-01.dyndns.tv/live/SPK-PLAY.m3u8
-#EXTINF:-1,Toonami
-http://freetv-01.dyndns.tv/live/Toonami.m3u8
-#EXTINF:-1,Boomerang
-http://freetv-01.dyndns.tv/live/BOOMERANG.m3u8
-#EXTINF:-1,Cartoon Club
-http://freetv-01.dyndns.tv/live/C-Club.m3u8
-#EXTINF:-1,Gang Cartoon 
-http://freetv-01.dyndns.tv/live/GANG-CARTOON.m3u8
-#EXTINF:-1,True Sport 2
-http://freetv-01.dyndns.tv/live/KNOW-TSP2.m3u8
-#EXTINF:-1,True Sport 5
-http://freetv-01.dyndns.tv/live/TSP5.m3u8
-#EXTINF:-1,True Sport 6
-http://freetv-01.dyndns.tv/live/TSP6.m3u8
-#EXTINF:-1,True Sport 7
-http://freetv-01.dyndns.tv/live/TSP7.m3u8
-#EXTINF:-1,Euro Sport 
-http://freetv-01.dyndns.tv/live/EURO-SPORTS.m3u8
-#EXTINF:-1,Fox Sport 1
-http://freetv-01.dyndns.tv/live/FOX-SPORTS-1.m3u8
-#EXTINF:-1,Fox Sport 2
-http://freetv-01.dyndns.tv/live/FOX-SPORTS-2.m3u8
-#EXTINF:-1,Fox Sport 3
-http://freetv-01.dyndns.tv/live/FOX-SPORTS-3.m3u8
-#EXTINF:-1,True Explorer Life
-http://freetv-01.dyndns.tv/live/EXPLIFE.m3u8
-#EXTINF:-1,True Explorer Wild
-http://freetv-01.dyndns.tv/live/EXPWILD.m3u8
-#EXTINF:-1,True Explorer Sci
-http://freetv-01.dyndns.tv/live/EXPSCI.m3u8
-#EXTINF:-1,PSI
-http://freetv-01.dyndns.tv/live/PSI-CHANNEL-HD.m3u8
-#EXTINF:-1,TLC
-http://freetv-01.dyndns.tv/live/GOLDA-TLC.m3u8
-#EXTINF:-1,INSIDE
-http://freetv-01.dyndns.tv/live/INSE.m3u8
-#EXTINF:-1,CHIC
-http://freetv-01.dyndns.tv/live/KNOW-CHIC.m3u8
-#EXTINF:-1,KBS world
-http://freetv-01.dyndns.tv/live/KBS.m3u8
-#EXTINF:-1,CCTV
-http://freetv-01.dyndns.tv/live/KNOW-CCTV.m3u8
-#EXTINF:-1,Fox thai
-http://freetv-01.dyndns.tv/live/FOX.m3u8
-#EXTINF:-1,Red
-http://freetv-01.dyndns.tv/live/RED.m3u8
-#EXTINF:-1,True Xzyte
-http://freetv-01.dyndns.tv/live/KNOW-XZYT.m3u8
-#EXTINF:-1,Film asia
-http://freetv-01.dyndns.tv/live/FL-A.m3u8
-#EXTINF:-1,Thai film
-http://freetv-01.dyndns.tv/live/TFLM.m3u8
-#EXTINF:-1,Asian series
-http://freetv-01.dyndns.tv/live/ASER.m3u8
-#EXTINF:-1,Movies Hit
-http://freetv-01.dyndns.tv/live/MOVH.m3u8
-#EXTINF:-1,Spark jump
-http://103.7.57.30/live/SPK-JUMP.m3u8
-#EXTINF:-1,Spark play
-http://103.7.57.30/live/SPK-PLAY.m3u8
-#EXTINF:-1,Toonami
-http://103.7.57.30/live/Toonami.m3u8
-#EXTINF:-1,Boomerang
-http://103.7.57.30/live/BOOMERANG.m3u8
-#EXTINF:-1,Cartoon Club
-http://103.7.57.30/live/C-Club.m3u8
-#EXTINF:-1,Gang Cartoon 
-http://103.7.57.30/live/GANG-CARTOON.m3u8
-#EXTINF:-1,True Sport 2
-http://103.7.57.30/live/KNOW-TSP2.m3u8
-#EXTINF:-1,True Sport 5
-http://103.7.57.30/live/TSP5.m3u8
-#EXTINF:-1,True Sport 6
-http://103.7.57.30/live/TSP6.m3u8
-#EXTINF:-1,True Sport 7
-http://103.7.57.30/live/TSP7.m3u8
-#EXTINF:-1,Euro Sport 
-http://103.7.57.30/live/EURO-SPORTS.m3u8
-#EXTINF:-1,Fox Sport 1
-http://103.7.57.30/live/FOX-SPORTS-1.m3u8
-#EXTINF:-1,Fox Sport 2
-http://103.7.57.30/live/FOX-SPORTS-2.m3u8
-#EXTINF:-1,Fox Sport 3
-http://103.7.57.30/live/FOX-SPORTS-3.m3u8
-#EXTINF:-1,True Explorer Life
-http://103.7.57.30/live/EXPLIFE.m3u8
-#EXTINF:-1,True Explorer Wild
-http://103.7.57.30/live/EXPWILD.m3u8
-#EXTINF:-1,True Explorer Sci
-http://103.7.57.30/live/EXPSCI.m3u8
-#EXTINF:-1,PSI
-http://103.7.57.30/live/PSI-CHANNEL-HD.m3u8
-#EXTINF:-1,TLC
-http://103.7.57.30/live/GOLDA-TLC.m3u8
-#EXTINF:-1,INSIDE
-http://103.7.57.30/live/INSE.m3u8
-#EXTINF:-1,CHIC
-http://103.7.57.30/live/KNOW-CHIC.m3u8
-#EXTINF:-1,KBS world
-http://103.7.57.30/live/KBS.m3u8
-#EXTINF:-1,CCTV
-http://103.7.57.30/live/KNOW-CCTV.m3u8
-#EXTINF:-1,Fox thai
-http://103.7.57.30/live/FOX.m3u8
-#EXTINF:-1,Red
-http://103.7.57.30/live/RED.m3u8
-#EXTINF:-1,True Xzyte
-http://103.7.57.30/live/KNOW-XZYT.m3u8
-#EXTINF:-1,Film asia
-http://103.7.57.30/live/FL-A.m3u8
-#EXTINF:-1,Thai film
-http://103.7.57.30/live/TFLM.m3u8
-#EXTINF:-1,Asian series
-http://103.7.57.30/live/ASER.m3u8
-#EXTINF:-1,Movies Hit
-http://103.7.57.30/live/MOVH.m3u8 
-#EXTINF:-1,Ch3 HD
-http://150.107.29.72/live/3-HD.m3u8
-#EXTINF:-1,Ch5 HD
-http://150.107.29.72/live/TV5-HD1.m3u8
-#EXTINF:-1,Ch7 HD
-http://150.107.29.72/live/CH7-HD.m3u8
-#EXTINF:-1,Amarin HD
-http://150.107.29.72/live/Amarin-TV-HD.m3u8
-#EXTINF:-1,Mcot HD
-http://150.107.29.72/live/MCOT-HD.m3u8
-#EXTINF:-1,Nbt HD
-http://150.107.29.72/live/NBT-HD.m3u8
-#EXTINF:-1,TPBS HD
-http://150.107.29.72/live/TPBS.m3u8
-#EXTINF:-1,Ch8 HD
-http://150.107.29.72/live/CH8-HD.m3u8
-#EXTINF:-1,One HD
-http://150.107.29.72/live/ONE-HD.m3u8
-#EXTINF:-1,PPTV HD
-http://150.107.29.72/live/PPTV-HD.m3u8
-#EXTINF:-1,Thairath HD
-http://150.107.29.72/live/Thairath-TV.m3u8
-#EXTINF:-1,Workpoint HD
-http://150.107.29.72/live/workpoint-HD.m3u8
-#EXTINF:-1,Tnn 24
-http://150.107.29.72/live/TNN24.m3u8
-#EXTINF:-1,Gmm 25
-http://150.107.29.72/live/GMM-25.m3u8
-#EXTINF:-1,Mono 29
-http://150.107.29.72/live/MONO-29.m3u8
-#EXTINF:-1,New
-http://150.107.29.72/live/new-tv.m3u8
-#EXTINF:-1,Spark jump
-http://150.107.29.72/live/SPK-JUMP.m3u8
-#EXTINF:-1,Spark play
-http://150.107.29.72/live/SPK-PLAY.m3u8
-#EXTINF:-1,Toonami
-http://150.107.29.72/live/Toonami.m3u8
-#EXTINF:-1,Boomerang
-http://150.107.29.72/live/BOOMERANG.m3u8
-#EXTINF:-1,Cartoon Club
-http://150.107.29.72/live/C-Club.m3u8
-#EXTINF:-1,Gang Cartoon 
-http://150.107.29.72/live/GANG-CARTOON.m3u8
-#EXTINF:-1,True Sport 2
-http://150.107.29.72/live/KNOW-TSP2.m3u8
-#EXTINF:-1,True Sport 5
-http://150.107.29.72/live/TSP5.m3u8
-#EXTINF:-1,True Sport 6
-http://150.107.29.72/live/TSP6.m3u8
-#EXTINF:-1,True Sport 7
-http://150.107.29.72/live/TSP7.m3u8
-#EXTINF:-1,Euro Sport 
-http://150.107.29.72/live/EURO-SPORTS.m3u8
-#EXTINF:-1,Fox Sport 1
-http://150.107.29.72/live/FOX-SPORTS-1.m3u8
-#EXTINF:-1,Fox Sport 2
-http://150.107.29.72/live/FOX-SPORTS-2.m3u8
-#EXTINF:-1,Fox Sport 3
-http://150.107.29.72/live/FOX-SPORTS-3.m3u8
-#EXTINF:-1,True Explorer Life
-http://150.107.29.72/live/EXPLIFE.m3u8
-#EXTINF:-1,True Explorer Wild
-http://150.107.29.72/live/EXPWILD.m3u8
-#EXTINF:-1,True Explorer Sci
-http://150.107.29.72/live/EXPSCI.m3u8
-#EXTINF:-1,PSI
-http://150.107.29.72/live/PSI-CHANNEL-HD.m3u8
-#EXTINF:-1,TLC
-http://150.107.29.72/live/GOLDA-TLC.m3u8
-#EXTINF:-1,INSIDE
-http://150.107.29.72/live/INSE.m3u8
-#EXTINF:-1,CHIC
-http://150.107.29.72/live/KNOW-CHIC.m3u8
-#EXTINF:-1,KBS world
-http://150.107.29.72/live/KBS.m3u8
-#EXTINF:-1,CCTV
-http://150.107.29.72/live/KNOW-CCTV.m3u8
-#EXTINF:-1,Fox thai
-http://150.107.29.72/live/FOX.m3u8
-#EXTINF:-1,Red
-http://150.107.29.72/live/RED.m3u8
-#EXTINF:-1,True Xzyte
-http://150.107.29.72/live/KNOW-XZYT.m3u8
-#EXTINF:-1,Film asia
-http://150.107.29.72/live/FL-A.m3u8
-#EXTINF:-1,Thai film
-http://150.107.29.72/live/TFLM.m3u8
-#EXTINF:-1,Asian series
-http://150.107.29.72/live/ASER.m3u8
-#EXTINF:-1,Movies Hit
-http://150.107.29.72/live/MOVH.m3u8
+<title>Bein Sport1</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live1.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=1</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport2</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live2.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=2</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport3</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live3.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=3</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport4</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live4.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=4</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bein Sport5</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live8.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=8</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>True Sport HD1</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live7.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=11</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+
+<item>
+<title>True Sport HD2</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live8.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=12</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>True Sport HD3</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live9.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=13</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Bien Sport1</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live6.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=10</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Fox Sport1</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live11.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=15</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Fox Sport2</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live12.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=16</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
+
+<item>
+<title>Fox Sport3</title>
+<link>$doregex[CH]</link>
+<regex>
+<name>CH</name>
+<expres><![CDATA[file: "(http://[^"]+)"]]></expres>
+<page>http://ball.qoo-p.com/dooballsod/live13.php</page>
+<referer>http://www.xn--l3car8bzaq6f.com/channel-detail.php?pid=17</referer>
+<cookieJar></cookieJar>
+<thumbnail></thumbnail>
+</regex>
+</item>
 
 
 </channel>
